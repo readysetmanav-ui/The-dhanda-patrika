@@ -1,0 +1,220 @@
+{
+ "vol": "Vol. I. No. CCLXXXIV",
+ "price": "Price: Two Pice",
+ "press": "Printed at the Dhanda Press",
+ "date": "Sunday, the 11th of October, 2026. Morning Edition",
+ "hook": "Today's money news in numbers, plain words and a few jokes.",
+ "nums": [
+  [
+   "5.50%",
+   "RBI repo rate"
+  ],
+  [
+   "$100",
+   "Brent crude, per barrel"
+  ],
+  [
+   "4.82%",
+   "Inflation, August (provisional)"
+  ],
+  [
+   "$52bn",
+   "Dip in forex reserves, one month"
+  ],
+  [
+   "8 weeks",
+   "Market losing streak, now over"
+  ]
+ ],
+ "stop": "The RBI's special dollar window for state-run oil firms takes effect on 12 October and will stay in place until further notice.",
+ "ratesTitle": "By Electric Telegraph: Prices Current",
+ "rates": [
+  [
+   "RBI repo rate",
+   "5.50%",
+   "Raised by 0.25 points on 7th Oct. Source: RBI circular, 7 Oct 2026"
+  ],
+  [
+   "Other RBI rates",
+   "SDF 5.25%, MSF 5.75%, Bank rate 5.75%",
+   "Stance: calibrated tightening"
+  ],
+  [
+   "Inflation (CPI)",
+   "4.82% (provisional)",
+   "August 2026. MoSPI, base 2024=100. CPI index 108.74"
+  ],
+  [
+   "Food inflation (CFPI)",
+   "5.95% (provisional)",
+   "August 2026. MoSPI, base 2024=100. CFPI index 110.71"
+  ],
+  [
+   "Brent crude",
+   "$100 per barrel",
+   "The Hindu BusinessLine (news report), 10 Oct, 07:33 PM"
+  ],
+  [
+   "Forex reserves",
+   "Down $52 billion in a month",
+   "Times of India, 11 Oct, 03:48 AM"
+  ],
+  [
+   "Gold (OroPocket)",
+   "Buy ₹15,574.88 / Sell ₹15,023.85 per gram",
+   "As of 10 Oct 2026, 20:40 IST. OroPocket rates in INR per gram, not MCX or spot prices"
+  ],
+  [
+   "Silver (OroPocket)",
+   "Buy ₹232.02 / Sell ₹219.03 per gram",
+   "As of 10 Oct 2026, 20:40 IST. OroPocket rates in INR per gram, not MCX or spot prices"
+  ]
+ ],
+ "stories": [
+  {
+   "t": "I. The Rupee Gets Help While the Reserves Dip",
+   "sub": "Two new measures, and a lighter savings pot",
+   "paras": [
+    "The RBI is acting on two fronts to steady the rupee. From <b>12 October</b>, a special window lets public-sector oil firms meet their daily dollar needs, and it stays in place <b>until further notice</b>. The RBI has also tightened the rules for forex derivatives, with stricter paperwork and lower transaction limits.",
+    "The strain shows in the reserves. Foreign exchange reserves dipped by <b>$52 billion in a month</b>, and Brent crude trades at <b>$100 a barrel</b>."
+   ],
+   "plain": "Forex reserves are the nation's emergency savings in foreign currency. When a central bank steps in to support its money, those savings can shrink. Think of using your savings in a rough month: it helps, but the pot gets lighter.",
+   "cardsT": "The three developments (touch to turn over)",
+   "cards": [
+    [
+     "The Dollar Window",
+     "From the 12th, public-sector oil firms get a special window for their daily dollar needs. It stays until further notice."
+    ],
+    [
+     "Rules for Forex Bets",
+     "Forex derivatives are wagers on currency prices. Stricter documentation and lower limits aim to cut speculative dollar demand."
+    ],
+    [
+     "Reserves Dip",
+     "India's foreign exchange reserves fell by $52 billion in a month, as the RBI stepped in to support the rupee."
+    ]
+   ],
+   "care": "A weaker rupee and dearer oil push up the price of imports: gadgets, foreign tuition, the imported trinket you have been eyeing."
+  },
+  {
+   "t": "II. The Market's Long Losing Streak Ends",
+   "sub": "Eight weeks of red, then a breather",
+   "paras": [
+    "Indian stock markets <b>snapped an 8-week losing streak</b>, and the Nifty and Sensex are holding above what analysts call their crucial support, a level where falls have paused before.",
+    "What next? Markets will watch Indian inflation data, US economic releases, company earnings, crude prices and the rupee. IT results from HCL Technologies, Wipro and Tech Mahindra may shape sector mood. High US yields and persistent selling by foreign institutional investors (FII) could weigh on shares."
+   ],
+   "plain": "A losing streak is like eight rainy weekends in a row. One dry Saturday is welcome news, but it does not promise summer.",
+   "ledger": {
+    "total": 8,
+    "step": 1,
+    "label": "Losing weeks left to endure",
+    "btn": "Survive another losing week",
+    "title": "Try It Thyself: Break the Streak",
+    "pre": "",
+    "suf": " of 8",
+    "dp": 0,
+    "stamp": "SNAPPED"
+   },
+   "care": "Falling markets worry anyone holding shares or mutual funds. A streak ending is good news, but nobody can promise what comes next."
+  },
+  {
+   "t": "III. What Might Come Next",
+   "sub": "Rates, prices and a promised rulebook",
+   "paras": [],
+   "tiles": [
+    [
+     "SBI Capital Markets: 75 to 100 bps",
+     "Expects the RBI to raise the repo rate by 75 to 100 basis points in this cycle, with a larger hike possible in December 2026 depending on inflation data."
+    ],
+    [
+     "Inflation to peak in Q3 FY27",
+     "The same report sees consumer inflation peaking in Q3 FY27, then easing. It warns costly crude, geopolitical tensions and rising borrowing costs could weigh on consumption."
+    ],
+    [
+     "SEBI rulebook within a week",
+     "SEBI chief Tuhin Kanta Pandey expects guidelines on the settlement-price mechanism for derivatives on expiry days within a week, after a review of the Closing Auction Session."
+    ]
+   ]
+  },
+  {
+   "t": "IV. The Rate Climb, in Numbers",
+   "sub": "One hike done, more possibly to come",
+   "paras": [
+    "The RBI raised the repo rate by 0.25 points on <b>7 October</b>. A <b>basis point</b> is one hundredth of a percentage point, so that is 25 basis points. SBI Capital Markets expects <b>75 to 100 basis points</b> of increases during this tightening cycle."
+   ],
+   "race": {
+    "a": [
+     "SBI Capital Markets, upper end",
+     "100 basis points",
+     100
+    ],
+    "b": [
+     "Raised on 7 October",
+     "25 basis points",
+     25
+    ],
+    "btn": "Start the Climb"
+   },
+   "plain": "A higher repo rate means dearer loans for banks, and in time for you. Your monthly instalment (the EMI) is where most people feel it."
+  }
+ ],
+ "ads": [
+  [
+   "Eight-Week Losing Streak, Slightly Used",
+   "Recently retired. One careful owner. Sensex and Nifty will vouch for it."
+  ],
+  [
+   "Barrel of Brent Crude, $100",
+   "No haggling. Apply to any oil-importing company, with dollars."
+  ]
+ ],
+ "words": [
+  [
+   "Repo rate",
+   "The interest at which the central bank lends to banks. Now 5.50% after a 0.25 point rise on 7 Oct 2026."
+  ],
+  [
+   "Forex reserves",
+   "Foreign currency assets held by a central bank. They recently dipped by $52 billion in a month."
+  ],
+  [
+   "Retail inflation",
+   "How fast prices rise for common shoppers. 4.8% for August 2026 (4.82% provisional, per MoSPI)."
+  ],
+  [
+   "Basis point",
+   "One hundredth of a percentage point. 100 basis points equal one full point."
+  ]
+ ],
+ "quiz": [
+  [
+   "By how much did forex reserves dip in a month?",
+   [
+    "$52 billion",
+    "$5.2 billion",
+    "$520 billion"
+   ],
+   0
+  ],
+  [
+   "How long was the stock market losing streak that just ended?",
+   [
+    "3 weeks",
+    "12 weeks",
+    "8 weeks"
+   ],
+   2
+  ],
+  [
+   "What is the RBI repo rate now?",
+   [
+    "5.25%",
+    "5.50%",
+    "6.00%"
+   ],
+   1
+  ]
+ ],
+ "poll": "Do you think the RBI will raise the repo rate again by December 2026?",
+ "foot": "Figures from the 11th October 2026 edition of The Dhanda Patrika, with gold and silver from OroPocket and inflation from MoSPI as named. Printed for learning only, and not as counsel on investing."
+}
