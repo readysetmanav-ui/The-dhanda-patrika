@@ -5,24 +5,75 @@
  "date": "Monday, the 12th of October, 2026. Morning Edition",
  "hook": "Today's money news in numbers and plain words.",
  "nums": [
-  ["5.50%", "RBI repo rate"],
-  ["7.35%", "10-year bond yield"],
-  ["4.82%", "Inflation, August (provisional)"],
-  ["$100", "Brent crude, per barrel"],
-  ["₹95.80", "Rupee per US dollar"]
+  [
+   "5.50%",
+   "RBI repo rate"
+  ],
+  [
+   "7.35%",
+   "10-year bond yield"
+  ],
+  [
+   "4.82%",
+   "Inflation, August (provisional)"
+  ],
+  [
+   "$100",
+   "Brent crude, per barrel"
+  ],
+  [
+   "₹95.80",
+   "Rupee per US dollar"
+  ]
  ],
  "stop": "Tonbo Imaging and Zetwerk open their IPOs for subscription on 15 October, and both close on 19 October.",
  "ratesTitle": "By Electric Telegraph: Prices Current",
  "rates": [
-  ["RBI repo rate", "5.50%", "Raised by 0.25 points at the 7 Oct 2026 policy meeting. Source: RBI policy decision"],
-  ["Other RBI rates", "SDF 5.25%, MSF 5.75%, Bank rate 5.75%", "Stance: calibrated tightening. Source: RBI policy decision, 7 Oct 2026"],
-  ["10-year bond yield", "7.35%", "Economic Times (news report), 12 Oct, 10:49 AM"],
-  ["Inflation (CPI)", "4.82% (provisional)", "August 2026. MoSPI, base 2024=100. CPI index 108.74"],
-  ["Food inflation (CFPI)", "5.95% (provisional)", "August 2026. MoSPI, base 2024=100. CFPI index 110.71"],
-  ["Brent crude", "$100 per barrel", "Economic Times (news report), 12 Oct, 10:49 AM"],
-  ["USD / INR", "₹95.80 per USD", "The Hindu Business (news report), 12 Oct, 10:26 AM"],
-  ["Gold (OroPocket)", "Buy ₹15,417.49 / Sell ₹14,956.72 per gram", "As of 12 Oct 2026, 11:58 IST. OroPocket rates in INR per gram, not MCX or spot prices"],
-  ["Silver (OroPocket)", "Buy ₹229.56 / Sell ₹216.98 per gram", "As of 12 Oct 2026, 11:58 IST. OroPocket rates in INR per gram, not MCX or spot prices"]
+  [
+   "RBI repo rate",
+   "5.50%",
+   "Raised by 0.25 points at the 7 Oct 2026 policy meeting. Source: RBI policy decision"
+  ],
+  [
+   "Other RBI rates",
+   "SDF 5.25%, MSF 5.75%, Bank rate 5.75%",
+   "Stance: calibrated tightening. Source: RBI policy decision, 7 Oct 2026"
+  ],
+  [
+   "10-year bond yield",
+   "7.35%",
+   "Economic Times (news report), 12 Oct, 10:49 AM"
+  ],
+  [
+   "Inflation (CPI)",
+   "4.82% (provisional)",
+   "August 2026. MoSPI, base 2024=100. CPI index 108.74"
+  ],
+  [
+   "Food inflation (CFPI)",
+   "5.95% (provisional)",
+   "August 2026. MoSPI, base 2024=100. CFPI index 110.71"
+  ],
+  [
+   "Brent crude",
+   "$100 per barrel",
+   "Economic Times (news report), 12 Oct, 10:49 AM"
+  ],
+  [
+   "USD / INR",
+   "₹95.80 per USD",
+   "The Hindu Business (news report), 12 Oct, 10:26 AM"
+  ],
+  [
+   "Gold (OroPocket)",
+   "Buy ₹15,417.70 / Sell ₹14,882.51 per gram",
+   "As of 12 Oct 2026, 12:40 IST. OroPocket rates in INR per gram, not MCX or spot prices"
+  ],
+  [
+   "Silver (OroPocket)",
+   "Buy ₹230.06 / Sell ₹217.45 per gram",
+   "As of 12 Oct 2026, 12:40 IST. OroPocket rates in INR per gram, not MCX or spot prices"
+  ]
  ],
  "stories": [
   {
@@ -35,9 +86,18 @@
    "plain": "Hedging is like buying an umbrella before the rain: firms pay a little today to be safe from a falling rupee tomorrow. The RBI has made that umbrella costlier, so fewer people rush to buy dollars.",
    "cardsT": "The three facts (touch to turn over)",
    "cards": [
-    ["The Jump", "The rupee rose about 1% at Monday's open, from ₹96.73 on Friday to roughly ₹95.76."],
-    ["The Steps", "Limits on rebooking derivative contracts and higher hedging costs aim to cool dollar demand and speculation."],
-    ["The Catch", "The rupee has still lost 6.6% this year, and Barclays warns that forward pricing could move up."]
+    [
+     "The Jump",
+     "The rupee rose about 1% at Monday's open, from ₹96.73 on Friday to roughly ₹95.76."
+    ],
+    [
+     "The Steps",
+     "Limits on rebooking derivative contracts and higher hedging costs aim to cool dollar demand and speculation."
+    ],
+    [
+     "The Catch",
+     "The rupee has still lost 6.6% this year, and Barclays warns that forward pricing could move up."
+    ]
    ],
    "care": "A stronger rupee makes imports a little cheaper: gadgets, foreign tuition, the imported trinket you have been eyeing. But one good day is not a trend."
   },
@@ -67,9 +127,18 @@
    "sub": "Where the money has been moving, and why",
    "paras": [],
    "tiles": [
-    ["Debt funds sell bonds", "Indian mutual funds have sold about $4.5 billion of government bonds since July as rate expectations changed. The RBI raised rates for the first time in nearly four years and signalled more to come, so many fund managers are moving to shorter-duration assets. (Economic Times, 12 Oct, 10:34 AM)"],
-    ["The macro squeeze", "Elevated crude and a weaker rupee are adding to inflation worries and the chance of tighter money. Foreign investor outflows are also weighing on sentiment, though some analysts think company earnings may steady the market. (Economic Times, 12 Oct, 10:37 AM)"],
-    ["Rupee and forward premiums", "Traders expect the rupee to strengthen to roughly 95.60 to 95.90 per dollar, after settling at 96.73 on Friday. The RBI's move may also cause swings in forward premiums. (The Hindu BusinessLine, 12 Oct, 09:22 AM)"]
+    [
+     "Debt funds sell bonds",
+     "Indian mutual funds have sold about $4.5 billion of government bonds since July as rate expectations changed. The RBI raised rates for the first time in nearly four years and signalled more to come, so many fund managers are moving to shorter-duration assets. (Economic Times, 12 Oct, 10:34 AM)"
+    ],
+    [
+     "The macro squeeze",
+     "Elevated crude and a weaker rupee are adding to inflation worries and the chance of tighter money. Foreign investor outflows are also weighing on sentiment, though some analysts think company earnings may steady the market. (Economic Times, 12 Oct, 10:37 AM)"
+    ],
+    [
+     "Rupee and forward premiums",
+     "Traders expect the rupee to strengthen to roughly 95.60 to 95.90 per dollar, after settling at 96.73 on Friday. The RBI's move may also cause swings in forward premiums. (The Hindu BusinessLine, 12 Oct, 09:22 AM)"
+    ]
    ]
   },
   {
@@ -81,27 +150,77 @@
     "Also in the queue, <b>Fusion CX</b> has fixed a band of <b>₹275 to ₹289</b>, valuing the company at about ₹4,200 crore at the top end. Kotak Life, Mukul Agrawal and Ashish Kacholia acquired shares in it ahead of the IPO."
    ],
    "race": {
-    "a": ["Zetwerk issue size, in crore", "₹5,012 crore", 5012],
-    "b": ["Of which fresh issue, in crore", "₹2,830 crore", 2830],
+    "a": [
+     "Zetwerk issue size, in crore",
+     "₹5,012 crore",
+     5012
+    ],
+    "b": [
+     "Of which fresh issue, in crore",
+     "₹2,830 crore",
+     2830
+    ],
     "btn": "Compare the sizes"
    },
    "plain": "A price band is the range within which you may bid for a share. In an offer for sale, existing owners sell their shares, so the money goes to them. In a fresh issue, new shares are created, so the money goes to the company."
   }
  ],
  "ads": [
-  ["Two IPOs, One Fifteenth of October", "Apply within. Read the prospectus first. No promises made."],
-  ["One Per Cent Rupee Rally, Slightly Used", "Handle with care: still down 6.6% this year."]
+  [
+   "Two IPOs, One Fifteenth of October",
+   "Apply within. Read the prospectus first. No promises made."
+  ],
+  [
+   "One Per Cent Rupee Rally, Slightly Used",
+   "Handle with care: still down 6.6% this year."
+  ]
  ],
  "words": [
-  ["Forward premium", "The extra cost of fixing a currency price today for delivery later. Think of a small booking fee to lock in next month's fuel price."],
-  ["Hedging", "Paying a little now to protect against a bad price move later, like an umbrella bought before the rain."],
-  ["Bond yield", "The return an investor earns on a bond. The 10-year yield is now 7.35%."],
-  ["Price band", "The range within which investors may bid for an IPO share. Tonbo Imaging's is ₹665 to ₹700."]
+  [
+   "Forward premium",
+   "The extra cost of fixing a currency price today for delivery later. Think of a small booking fee to lock in next month's fuel price."
+  ],
+  [
+   "Hedging",
+   "Paying a little now to protect against a bad price move later, like an umbrella bought before the rain."
+  ],
+  [
+   "Bond yield",
+   "The return an investor earns on a bond. The 10-year yield is now 7.35%."
+  ],
+  [
+   "Price band",
+   "The range within which investors may bid for an IPO share. Tonbo Imaging's is ₹665 to ₹700."
+  ]
  ],
  "quiz": [
-  ["What is the price band for Tonbo Imaging's IPO?", ["₹665 to ₹700", "₹143 to ₹151", "₹275 to ₹289"], 0],
-  ["On which date do the Tonbo Imaging and Zetwerk IPOs open?", ["12 October", "15 October", "23 October"], 1],
-  ["Where did the rupee settle on Friday, before Monday's jump?", ["₹96.73", "₹95.76", "₹100"], 0]
+  [
+   "What is the price band for Tonbo Imaging's IPO?",
+   [
+    "₹665 to ₹700",
+    "₹143 to ₹151",
+    "₹275 to ₹289"
+   ],
+   0
+  ],
+  [
+   "On which date do the Tonbo Imaging and Zetwerk IPOs open?",
+   [
+    "12 October",
+    "15 October",
+    "23 October"
+   ],
+   1
+  ],
+  [
+   "Where did the rupee settle on Friday, before Monday's jump?",
+   [
+    "₹96.73",
+    "₹95.76",
+    "₹100"
+   ],
+   0
+  ]
  ],
  "poll": "Will Zetwerk's upcoming IPO reach its targeted valuation?",
  "foot": "Figures from the 12th October 2026 morning edition of The Dhanda Patrika, with gold and silver from OroPocket and inflation from MoSPI as named. Printed for learning only, and not as counsel on investing.",
@@ -109,22 +228,65 @@
   "date": "सोमवार, 12 अक्टूबर 2026। प्रातः संस्करण",
   "hook": "आज की पैसों की ख़बरें: आँकड़ों और आसान शब्दों में।",
   "nums": [
-   ["5.50%", "आरबीआई रेपो दर"],
-   ["7.35%", "10 साल के बॉन्ड पर प्रतिफल"],
-   ["4.82%", "महँगाई, अगस्त (अनंतिम)"],
-   ["$100", "ब्रेंट कच्चा तेल, प्रति बैरल"],
-   ["₹95.80", "एक अमेरिकी डॉलर के बदले रुपये"]
+   [
+    "5.50%",
+    "आरबीआई रेपो दर"
+   ],
+   [
+    "7.35%",
+    "10 साल के बॉन्ड पर प्रतिफल"
+   ],
+   [
+    "4.82%",
+    "महँगाई, अगस्त (अनंतिम)"
+   ],
+   [
+    "$100",
+    "ब्रेंट कच्चा तेल, प्रति बैरल"
+   ],
+   [
+    "₹95.80",
+    "एक अमेरिकी डॉलर के बदले रुपये"
+   ]
   ],
   "stop": "टोन्बो इमेजिंग और ज़ेटवर्क के आईपीओ 15 अक्टूबर को सब्सक्रिप्शन के लिए खुलेंगे, और दोनों 19 अक्टूबर को बंद होंगे।",
   "ratesTitle": "बिजली-तार से: आज के भाव",
   "rates": {
-   "RBI repo rate": ["आरबीआई रेपो दर", "5.50%", "7 अक्टूबर 2026 की नीति बैठक में 0.25 अंक बढ़ाई गई। स्रोत: आरबीआई नीति निर्णय"],
-   "Other RBI rates": ["आरबीआई की अन्य दरें", "SDF 5.25%, MSF 5.75%, बैंक दर 5.75%", "रुख़: नपी-तुली सख़्ती। स्रोत: आरबीआई नीति निर्णय, 7 अक्टूबर 2026"],
-   "10-year bond yield": ["10 साल के बॉन्ड का प्रतिफल", "7.35%", "इकोनॉमिक टाइम्स (समाचार रिपोर्ट), 12 अक्टूबर, सुबह 10:49"],
-   "Inflation (CPI)": ["महँगाई (सीपीआई)", "4.82% (अनंतिम)", "अगस्त 2026। MoSPI, आधार वर्ष 2024=100। सीपीआई सूचकांक 108.74"],
-   "Food inflation (CFPI)": ["खाद्य महँगाई (सीएफपीआई)", "5.95% (अनंतिम)", "अगस्त 2026। MoSPI, आधार वर्ष 2024=100। सीएफपीआई सूचकांक 110.71"],
-   "Brent crude": ["ब्रेंट कच्चा तेल", "$100 प्रति बैरल", "इकोनॉमिक टाइम्स (समाचार रिपोर्ट), 12 अक्टूबर, सुबह 10:49"],
-   "USD / INR": ["डॉलर / रुपया", "₹95.80 प्रति डॉलर", "द हिंदू बिज़नेस (समाचार रिपोर्ट), 12 अक्टूबर, सुबह 10:26"]
+   "RBI repo rate": [
+    "आरबीआई रेपो दर",
+    "5.50%",
+    "7 अक्टूबर 2026 की नीति बैठक में 0.25 अंक बढ़ाई गई। स्रोत: आरबीआई नीति निर्णय"
+   ],
+   "Other RBI rates": [
+    "आरबीआई की अन्य दरें",
+    "SDF 5.25%, MSF 5.75%, बैंक दर 5.75%",
+    "रुख़: नपी-तुली सख़्ती। स्रोत: आरबीआई नीति निर्णय, 7 अक्टूबर 2026"
+   ],
+   "10-year bond yield": [
+    "10 साल के बॉन्ड का प्रतिफल",
+    "7.35%",
+    "इकोनॉमिक टाइम्स (समाचार रिपोर्ट), 12 अक्टूबर, सुबह 10:49"
+   ],
+   "Inflation (CPI)": [
+    "महँगाई (सीपीआई)",
+    "4.82% (अनंतिम)",
+    "अगस्त 2026। MoSPI, आधार वर्ष 2024=100। सीपीआई सूचकांक 108.74"
+   ],
+   "Food inflation (CFPI)": [
+    "खाद्य महँगाई (सीएफपीआई)",
+    "5.95% (अनंतिम)",
+    "अगस्त 2026। MoSPI, आधार वर्ष 2024=100। सीएफपीआई सूचकांक 110.71"
+   ],
+   "Brent crude": [
+    "ब्रेंट कच्चा तेल",
+    "$100 प्रति बैरल",
+    "इकोनॉमिक टाइम्स (समाचार रिपोर्ट), 12 अक्टूबर, सुबह 10:49"
+   ],
+   "USD / INR": [
+    "डॉलर / रुपया",
+    "₹95.80 प्रति डॉलर",
+    "द हिंदू बिज़नेस (समाचार रिपोर्ट), 12 अक्टूबर, सुबह 10:26"
+   ]
   },
   "stories": [
    {
@@ -137,9 +299,18 @@
     "plain": "हेजिंग यानी बारिश से पहले छतरी ख़रीद लेना: कंपनियाँ आज थोड़ा पैसा देकर कल रुपया गिरने के जोखिम से बच जाती हैं। आरबीआई ने इस छतरी को महँगा कर दिया है, इसलिए डॉलर के पीछे भागने वाले कम होंगे।",
     "cardsT": "तीन बातें (पलटने के लिए छुएँ)",
     "cards": [
-     ["उछाल", "सोमवार को खुलते ही रुपया करीब 1% चढ़ा: शुक्रवार के ₹96.73 से लगभग ₹95.76 पर।"],
-     ["क़दम", "डेरिवेटिव सौदे दोबारा बुक करने पर रोक और हेजिंग की ऊँची लागत का मक़सद डॉलर की माँग और सट्टेबाज़ी घटाना है।"],
-     ["पेच", "रुपया इस साल अब भी 6.6% गिरा है, और बार्कलेज़ को आशंका है कि फ़ॉरवर्ड भाव फिर चढ़ सकते हैं।"]
+     [
+      "उछाल",
+      "सोमवार को खुलते ही रुपया करीब 1% चढ़ा: शुक्रवार के ₹96.73 से लगभग ₹95.76 पर।"
+     ],
+     [
+      "क़दम",
+      "डेरिवेटिव सौदे दोबारा बुक करने पर रोक और हेजिंग की ऊँची लागत का मक़सद डॉलर की माँग और सट्टेबाज़ी घटाना है।"
+     ],
+     [
+      "पेच",
+      "रुपया इस साल अब भी 6.6% गिरा है, और बार्कलेज़ को आशंका है कि फ़ॉरवर्ड भाव फिर चढ़ सकते हैं।"
+     ]
     ],
     "care": "मज़बूत रुपया आयात को थोड़ा सस्ता करता है: गैजेट, विदेश में पढ़ाई, वह विदेशी चीज़ जिस पर आपकी नज़र थी। पर एक अच्छा दिन कोई रुझान नहीं होता।"
    },
@@ -165,9 +336,18 @@
     "sub": "पैसा कहाँ जा रहा है, और क्यों",
     "paras": [],
     "tiles": [
-     ["डेट फ़ंड बेच रहे हैं बॉन्ड", "दरों को लेकर अनुमान बदलने पर भारतीय म्यूचुअल फ़ंडों ने जुलाई से अब तक करीब $4.5 अरब के सरकारी बॉन्ड बेचे हैं। आरबीआई ने लगभग चार साल में पहली बार दरें बढ़ाईं और आगे और बढ़ोतरी के संकेत दिए, इसलिए कई फ़ंड मैनेजर कम अवधि की संपत्तियों की ओर जा रहे हैं। (इकोनॉमिक टाइम्स, 12 अक्टूबर, सुबह 10:34)"],
-     ["बड़ा दबाव", "ऊँचा कच्चा तेल और कमज़ोर रुपया महँगाई की चिंता और सख़्त मौद्रिक नीति की संभावना बढ़ा रहे हैं। विदेशी निवेशकों की निकासी भी माहौल पर भारी है, हालाँकि कुछ विश्लेषक मानते हैं कि कंपनियों की कमाई बाज़ार को संभाल सकती है। (इकोनॉमिक टाइम्स, 12 अक्टूबर, सुबह 10:37)"],
-     ["रुपया और फ़ॉरवर्ड प्रीमियम", "शुक्रवार को 96.73 पर बंद होने के बाद ट्रेडर्स को रुपये के करीब 95.60 से 95.90 प्रति डॉलर तक मज़बूत होने की उम्मीद है। आरबीआई के क़दम से फ़ॉरवर्ड प्रीमियम में उतार-चढ़ाव भी आ सकता है। (द हिंदू बिज़नेसलाइन, 12 अक्टूबर, सुबह 09:22)"]
+     [
+      "डेट फ़ंड बेच रहे हैं बॉन्ड",
+      "दरों को लेकर अनुमान बदलने पर भारतीय म्यूचुअल फ़ंडों ने जुलाई से अब तक करीब $4.5 अरब के सरकारी बॉन्ड बेचे हैं। आरबीआई ने लगभग चार साल में पहली बार दरें बढ़ाईं और आगे और बढ़ोतरी के संकेत दिए, इसलिए कई फ़ंड मैनेजर कम अवधि की संपत्तियों की ओर जा रहे हैं। (इकोनॉमिक टाइम्स, 12 अक्टूबर, सुबह 10:34)"
+     ],
+     [
+      "बड़ा दबाव",
+      "ऊँचा कच्चा तेल और कमज़ोर रुपया महँगाई की चिंता और सख़्त मौद्रिक नीति की संभावना बढ़ा रहे हैं। विदेशी निवेशकों की निकासी भी माहौल पर भारी है, हालाँकि कुछ विश्लेषक मानते हैं कि कंपनियों की कमाई बाज़ार को संभाल सकती है। (इकोनॉमिक टाइम्स, 12 अक्टूबर, सुबह 10:37)"
+     ],
+     [
+      "रुपया और फ़ॉरवर्ड प्रीमियम",
+      "शुक्रवार को 96.73 पर बंद होने के बाद ट्रेडर्स को रुपये के करीब 95.60 से 95.90 प्रति डॉलर तक मज़बूत होने की उम्मीद है। आरबीआई के क़दम से फ़ॉरवर्ड प्रीमियम में उतार-चढ़ाव भी आ सकता है। (द हिंदू बिज़नेसलाइन, 12 अक्टूबर, सुबह 09:22)"
+     ]
     ]
    },
    {
@@ -179,27 +359,75 @@
      "कतार में <b>फ़्यूज़न सीएक्स</b> भी है, जिसने <b>₹275 से ₹289</b> का बैंड तय किया है, यानी ऊपरी छोर पर कंपनी का मूल्यांकन करीब ₹4,200 करोड़। आईपीओ से पहले कोटक लाइफ़, मुकुल अग्रवाल और आशीष कचोलिया ने इसमें शेयर ख़रीदे।"
     ],
     "race": {
-     "a": ["ज़ेटवर्क इश्यू का आकार, करोड़ में", "₹5,012 करोड़"],
-     "b": ["इसमें से नया इश्यू, करोड़ में", "₹2,830 करोड़"],
+     "a": [
+      "ज़ेटवर्क इश्यू का आकार, करोड़ में",
+      "₹5,012 करोड़"
+     ],
+     "b": [
+      "इसमें से नया इश्यू, करोड़ में",
+      "₹2,830 करोड़"
+     ],
      "btn": "आकार की तुलना कीजिए"
     },
     "plain": "प्राइस बैंड वह दायरा है जिसमें आप शेयर के लिए बोली लगा सकते हैं। ऑफ़र फ़ॉर सेल में मौजूदा मालिक अपने शेयर बेचते हैं, इसलिए पैसा उन्हें मिलता है। नए इश्यू में नए शेयर बनते हैं, इसलिए पैसा कंपनी को मिलता है।"
    }
   ],
   "ads": [
-   ["दो आईपीओ, एक पंद्रह अक्टूबर", "भीतर आवेदन करें। पहले प्रॉस्पेक्टस पढ़ें। कोई वादा नहीं।"],
-   ["एक प्रतिशत रुपया उछाल, ज़रा-सा इस्तेमाल किया हुआ", "सँभलकर बरतें: इस साल अब भी 6.6% नीचे।"]
+   [
+    "दो आईपीओ, एक पंद्रह अक्टूबर",
+    "भीतर आवेदन करें। पहले प्रॉस्पेक्टस पढ़ें। कोई वादा नहीं।"
+   ],
+   [
+    "एक प्रतिशत रुपया उछाल, ज़रा-सा इस्तेमाल किया हुआ",
+    "सँभलकर बरतें: इस साल अब भी 6.6% नीचे।"
+   ]
   ],
   "words": [
-   ["फ़ॉरवर्ड प्रीमियम", "आज तय किए गए भाव पर आगे किसी तारीख़ को करेंसी लेने की अतिरिक्त लागत। सोचिए, अगले महीने के ईंधन का भाव आज पक्का करने की छोटी बुकिंग फ़ीस।"],
-   ["हेजिंग", "आगे के बुरे भाव से बचने के लिए अभी थोड़ा पैसा देना, जैसे बारिश से पहले ख़रीदी गई छतरी।"],
-   ["बॉन्ड प्रतिफल", "बॉन्ड पर निवेशक को मिलने वाली कमाई। 10 साल का प्रतिफल अभी 7.35% है।"],
-   ["प्राइस बैंड", "वह दायरा जिसमें निवेशक आईपीओ के शेयर के लिए बोली लगा सकते हैं। टोन्बो इमेजिंग का ₹665 से ₹700 है।"]
+   [
+    "फ़ॉरवर्ड प्रीमियम",
+    "आज तय किए गए भाव पर आगे किसी तारीख़ को करेंसी लेने की अतिरिक्त लागत। सोचिए, अगले महीने के ईंधन का भाव आज पक्का करने की छोटी बुकिंग फ़ीस।"
+   ],
+   [
+    "हेजिंग",
+    "आगे के बुरे भाव से बचने के लिए अभी थोड़ा पैसा देना, जैसे बारिश से पहले ख़रीदी गई छतरी।"
+   ],
+   [
+    "बॉन्ड प्रतिफल",
+    "बॉन्ड पर निवेशक को मिलने वाली कमाई। 10 साल का प्रतिफल अभी 7.35% है।"
+   ],
+   [
+    "प्राइस बैंड",
+    "वह दायरा जिसमें निवेशक आईपीओ के शेयर के लिए बोली लगा सकते हैं। टोन्बो इमेजिंग का ₹665 से ₹700 है।"
+   ]
   ],
   "quiz": [
-   ["टोन्बो इमेजिंग के आईपीओ का प्राइस बैंड क्या है?", ["₹665 से ₹700", "₹143 से ₹151", "₹275 से ₹289"], 0],
-   ["टोन्बो इमेजिंग और ज़ेटवर्क के आईपीओ किस तारीख़ को खुलेंगे?", ["12 अक्टूबर", "15 अक्टूबर", "23 अक्टूबर"], 1],
-   ["सोमवार की उछाल से पहले शुक्रवार को रुपया कहाँ बंद हुआ था?", ["₹96.73", "₹95.76", "₹100"], 0]
+   [
+    "टोन्बो इमेजिंग के आईपीओ का प्राइस बैंड क्या है?",
+    [
+     "₹665 से ₹700",
+     "₹143 से ₹151",
+     "₹275 से ₹289"
+    ],
+    0
+   ],
+   [
+    "टोन्बो इमेजिंग और ज़ेटवर्क के आईपीओ किस तारीख़ को खुलेंगे?",
+    [
+     "12 अक्टूबर",
+     "15 अक्टूबर",
+     "23 अक्टूबर"
+    ],
+    1
+   ],
+   [
+    "सोमवार की उछाल से पहले शुक्रवार को रुपया कहाँ बंद हुआ था?",
+    [
+     "₹96.73",
+     "₹95.76",
+     "₹100"
+    ],
+    0
+   ]
   ],
   "poll": "क्या ज़ेटवर्क का आने वाला आईपीओ अपना लक्षित मूल्यांकन हासिल कर पाएगा?",
   "foot": "आँकड़े द धंधा पत्रिका के 12 अक्टूबर 2026 के प्रातः संस्करण से, सोना-चाँदी ओरोपॉकेट से और महँगाई MoSPI से, जैसा नाम दिया गया है। केवल सीखने के लिए, निवेश की सलाह के तौर पर नहीं।",
@@ -207,11 +435,31 @@
    "t": "तार से: बाक़ी सारी ख़बरें",
    "sub": "हर ख़बर एक पंक्ति में, जहाँ मुनासिब हो वहाँ मुस्कान, जहाँ नहीं वहाँ नहीं",
    "items": [
-    ["रियाद में हैदराबाद के एक व्यक्ति की मौत", "रियाद हवाई अड्डे पर हुए हमले में हैदराबाद के एक व्यक्ति की मौत हो गई और उनके दो बेटे घायल हुए। परिवार उमरा के बाद मदीना जा रहा था; उनकी पत्नी और बेटी सुरक्षित हैं, और उनकी चाची के सिर में चोट आई।", "द हिंदू, 12 अक्टूबर, रात 01:27 · 4 आउटलेट पर चर्चा में"],
-    ["आईएनएस मांगरोल नौसेना में शामिल", "पनडुब्बी-रोधी उथले पानी के जंगी जहाज़ आईएनएस मांगरोल को नौसेना में शामिल किया गया। इसमें 80% से ज़्यादा स्वदेशी सामग्री है।", "द हिंदू, 12 अक्टूबर, सुबह 11:22"],
-    ["जिबूती के पास नाव हादसा", "यमन जा रही एक ज़रूरत से ज़्यादा भरी नाव जिबूती के पास पलट गई, जिसमें 139 प्रवासियों की मौत हो गई। कम से कम 84 लोग अब भी लापता हैं।", "एनडीटीवी, 12 अक्टूबर, सुबह 10:44"],
-    ["दिल्ली भीगी", "दिल्ली-एनसीआर की सुबह तेज़ बारिश और आँधी-तूफ़ान के साथ हुई, और मौसम विभाग ने रेड अलर्ट जारी किया। फ़िलहाल मौसम ठंडा है।", "टाइम्स ऑफ़ इंडिया, 12 अक्टूबर, सुबह 06:53 · 3 आउटलेट पर चर्चा में"],
-    ["दिल्ली मेट्रो में जानलेवा झगड़ा", "दिल्ली मेट्रो की एक ट्रेन में वरिष्ठ नागरिक की सीट को लेकर हुए झगड़े में हमले के बाद 48 साल के एक व्यक्ति की मौत हो गई। एक सेवानिवृत्त आईएएस अधिकारी और उनके बेटे को गिरफ़्तार किया गया है।", "टाइम्स ऑफ़ इंडिया, 12 अक्टूबर, सुबह 07:04 · 3 आउटलेट पर चर्चा में"]
+    [
+     "रियाद में हैदराबाद के एक व्यक्ति की मौत",
+     "रियाद हवाई अड्डे पर हुए हमले में हैदराबाद के एक व्यक्ति की मौत हो गई और उनके दो बेटे घायल हुए। परिवार उमरा के बाद मदीना जा रहा था; उनकी पत्नी और बेटी सुरक्षित हैं, और उनकी चाची के सिर में चोट आई।",
+     "द हिंदू, 12 अक्टूबर, रात 01:27 · 4 आउटलेट पर चर्चा में"
+    ],
+    [
+     "आईएनएस मांगरोल नौसेना में शामिल",
+     "पनडुब्बी-रोधी उथले पानी के जंगी जहाज़ आईएनएस मांगरोल को नौसेना में शामिल किया गया। इसमें 80% से ज़्यादा स्वदेशी सामग्री है।",
+     "द हिंदू, 12 अक्टूबर, सुबह 11:22"
+    ],
+    [
+     "जिबूती के पास नाव हादसा",
+     "यमन जा रही एक ज़रूरत से ज़्यादा भरी नाव जिबूती के पास पलट गई, जिसमें 139 प्रवासियों की मौत हो गई। कम से कम 84 लोग अब भी लापता हैं।",
+     "एनडीटीवी, 12 अक्टूबर, सुबह 10:44"
+    ],
+    [
+     "दिल्ली भीगी",
+     "दिल्ली-एनसीआर की सुबह तेज़ बारिश और आँधी-तूफ़ान के साथ हुई, और मौसम विभाग ने रेड अलर्ट जारी किया। फ़िलहाल मौसम ठंडा है।",
+     "टाइम्स ऑफ़ इंडिया, 12 अक्टूबर, सुबह 06:53 · 3 आउटलेट पर चर्चा में"
+    ],
+    [
+     "दिल्ली मेट्रो में जानलेवा झगड़ा",
+     "दिल्ली मेट्रो की एक ट्रेन में वरिष्ठ नागरिक की सीट को लेकर हुए झगड़े में हमले के बाद 48 साल के एक व्यक्ति की मौत हो गई। एक सेवानिवृत्त आईएएस अधिकारी और उनके बेटे को गिरफ़्तार किया गया है।",
+     "टाइम्स ऑफ़ इंडिया, 12 अक्टूबर, सुबह 07:04 · 3 आउटलेट पर चर्चा में"
+    ]
    ]
   }
  },
@@ -219,11 +467,31 @@
   "t": "The Wire: Everything Else Today",
   "sub": "One line each, a smile where it is kind, none where it is not",
   "items": [
-   ["A Hyderabad Man Lost in Riyadh", "A Hyderabad man was killed in the Riyadh airport attack and his two sons were injured. The family was travelling to Madinah after Umrah; his wife and daughter are safe, and his aunt suffered head injuries.", "The Hindu, 12 Oct, 01:27 AM · In the news at 4 outlets"],
-   ["INS Mangrol Joins the Navy", "The anti-submarine warfare shallow water craft INS Mangrol was inducted into the Navy. It has over 80% indigenous content.", "The Hindu, 12 Oct, 11:22 AM"],
-   ["Boat Tragedy off Djibouti", "An overcrowded boat headed for Yemen capsized off Djibouti, and 139 migrants died. At least 84 people remain missing.", "NDTV, 12 Oct, 10:44 AM"],
-   ["Delhi Gets a Soaking", "Delhi-NCR woke up to heavy rain and thunderstorms, and the IMD issued a red alert. Cooler weather prevails for now.", "Times of India, 12 Oct, 06:53 AM · In the news at 3 outlets"],
-   ["Fatal Fight on the Delhi Metro", "A 48-year-old man died after an assault in a Delhi Metro train over a senior citizen seat. A retired IAS officer and his son have been arrested.", "Times of India, 12 Oct, 07:04 AM · In the news at 3 outlets"]
+   [
+    "A Hyderabad Man Lost in Riyadh",
+    "A Hyderabad man was killed in the Riyadh airport attack and his two sons were injured. The family was travelling to Madinah after Umrah; his wife and daughter are safe, and his aunt suffered head injuries.",
+    "The Hindu, 12 Oct, 01:27 AM · In the news at 4 outlets"
+   ],
+   [
+    "INS Mangrol Joins the Navy",
+    "The anti-submarine warfare shallow water craft INS Mangrol was inducted into the Navy. It has over 80% indigenous content.",
+    "The Hindu, 12 Oct, 11:22 AM"
+   ],
+   [
+    "Boat Tragedy off Djibouti",
+    "An overcrowded boat headed for Yemen capsized off Djibouti, and 139 migrants died. At least 84 people remain missing.",
+    "NDTV, 12 Oct, 10:44 AM"
+   ],
+   [
+    "Delhi Gets a Soaking",
+    "Delhi-NCR woke up to heavy rain and thunderstorms, and the IMD issued a red alert. Cooler weather prevails for now.",
+    "Times of India, 12 Oct, 06:53 AM · In the news at 3 outlets"
+   ],
+   [
+    "Fatal Fight on the Delhi Metro",
+    "A 48-year-old man died after an assault in a Delhi Metro train over a senior citizen seat. A retired IAS officer and his son have been arrested.",
+    "Times of India, 12 Oct, 07:04 AM · In the news at 3 outlets"
+   ]
   ]
  }
 }
