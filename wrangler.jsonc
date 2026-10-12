@@ -16,6 +16,7 @@
   ],
   "vars": {
     "FIREBASE_PROJECT_ID": "the-dhanda-patrika",
-    "TRIAL_DAYS": "30"
+    "TRIAL_DAYS": "30",
+    "ADMIN_EMAIL": "readysetmanav@gmail.com"
   }
 }
