@@ -1,0 +1,21 @@
+{
+  "name": "the-dhanda-patrika",
+  "main": "worker.js",
+  "compatibility_date": "2025-09-01",
+  "assets": {
+    "directory": "./",
+    "binding": "ASSETS",
+    "run_worker_first": ["/api/*"]
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "dhanda-members",
+      "database_id": "565e2167-0dbe-4a66-b46d-6298782d88ca"
+    }
+  ],
+  "vars": {
+    "FIREBASE_PROJECT_ID": "the-dhanda-patrika",
+    "TRIAL_DAYS": "30"
+  }
+}
