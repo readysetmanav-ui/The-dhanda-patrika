@@ -1,6 +1,12 @@
-.git
-.github
-.wrangler
-scripts
-data
-README.md
+   .git
+   .github
+   .wrangler
+   scripts
+   data
+   README.md
+   worker.js
+   logic.js
+   schema.sql
+   wrangler.jsonc
+   membership.test.mjs
+   .assetsignore
